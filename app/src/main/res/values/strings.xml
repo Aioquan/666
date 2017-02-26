@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">666</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_click_to_exit">单击屏幕退出程序</string>
+    <string name="title">我只想说:666666666666666666666</string>
+    <string name="click_to_exit">单击屏幕退出程序</string>
 </resources>
